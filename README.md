@@ -2,7 +2,7 @@
 DSOSU: Distributed System Design for Order Supply Chain and User Behavior Analysis
 # Project Overview
 
-This project involves building a distributed computing environment using **ZeroTier**, **Docker**, and **Hadoop**, and analyzing large-scale datasets using **Spark**. The main objectives include data processing, visualization, and analysis to optimize various business functions like order processing, customer behavior analysis, and inventory management.
+This project involves building a distributed computing environment using **ZeroTier**, **Docker**, and **Hadoop**, and analyzing large-scale datasets using **Spark**. The main objectives include distributed data system, data processing, visualization, and analysis to optimize various business functions like order processing, customer behavior analysis, and inventory management. 
 
 ## Usage
 Sourse code comming soon.  
